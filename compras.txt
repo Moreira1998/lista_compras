@@ -1,3 +1,5 @@
 Leche 
 Pan
 Huevo
+Queso
+Arroz
